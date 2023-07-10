@@ -1,3 +1,5 @@
+// https://app.quicktype.io/
+
 export interface SearchResponse {
   data:       Gif[];
   pagination: Pagination;
